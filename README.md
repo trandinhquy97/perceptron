@@ -1,5 +1,5 @@
 # Perceptron
-## A library to create a neural cell in a neural network
+## A library to create a perceptron in a neural network JS
 
 + **Init:**
 ```
